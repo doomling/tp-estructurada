@@ -1,0 +1,10 @@
+
+Debug/
+
+\.vs/
+
+tp-estructurada/tp-estructurada\.vcxproj\.user
+
+*.exe
+
+*.obj
